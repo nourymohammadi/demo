@@ -1,2 +1,2 @@
-# Master branch:
+# Master branch
 first line
