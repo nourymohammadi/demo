@@ -1,2 +1,0 @@
-# demo
-A simple demo
